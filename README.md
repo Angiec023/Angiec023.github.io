@@ -181,3 +181,195 @@
 
 </body>
 </html>
+
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E6E6FA; /* Light purple background */
+    color: #4B0082; /* Very dark purple lettering */
+    text-align: center; /* Centered text */
+}
+
+/* Paragraph styles */
+p {
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+/* Anchor (link) styles */
+a.uk-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #F5F5DC; /* Beige scroll color */
+    color: #8B4513; /* Brown text color */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a.uk-button:hover {
+    background-color: #D2B48C; /* Lighter beige on hover */
+}
+
+/* Section styles */
+#Filigran {
+    margin-top: 30px;
+}
+
+/* Heading styles */
+h2 {
+    font-weight: bold;
+    color: #4B0082; /* Very dark purple for headings */
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #E6E6FA; /* Light purple background */
+    color: #4B0082; /* Very dark purple lettering */
+    text-align: center; /* Centered text */
+}
+
+/* Paragraph styles */
+p {
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+/* Anchor (link) styles */
+a.uk-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #F5F5DC; /* Beige scroll color */
+    color: #8B4513; /* Brown text color */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a.uk-button:hover {
+    background-color: #D2B48C; /* Lighter beige on hover */
+}
+
+/* Section styles */
+#Filigran {
+    margin-top: 30px;
+    text-align: left; /* Adjust text alignment */
+}
+
+/* Heading styles */
+h2, h3 {
+    font-weight: bold;
+    color: #4B0082; /* Very dark purple for headings */
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.content ul {
+            list-style-type: none; /* Remove default bullet points */
+            text-align: left; /* Align list items to the left */
+            padding-left: 0; /* Remove default left padding */
+        }
+
+        .content ul li {
+            text-align: center; /* Center align list items */
+            margin-bottom: 10px; /* Add bottom margin to separate list items */
+        }
+
+        .content ul li:before {
+            font-weight: bold; /* Make text before colon bold */
+            content: attr(data-title); /* Set content as data attribute */
+        }
+
+        .section img {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px; /* Adjust this value to make the border softer */
+}
+.section {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff; /* White background for sections */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Box shadow for sections */
+}
+
+h1 {
+  position: relative;
+  padding-left: 110px;
+  display: inline-block;
+  background: linear-gradient(180deg, #8A2BE2, #4B0082); /* Gradient background */
+  color: #fff;
+  text-align: center; /* Center align text */
+  font-size: 3.8rem; /* Adjust font size */
+  padding: 20px; /* Add padding */
+}
+
+h1 {
+  position: relative;
+  padding-left: 110px;
+  display: inline-block;
+  background: url('../Image/flower.png') left center no-repeat;
+  background-size: 100px 80px;
+  color: #fff;
+}
+
+h1::before,
+h1::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 50%; /* Split the background into two halves */
+  height: 100%;
+  background: linear-gradient(180deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  z-index: -1;
+}
+
+h1::before {
+  left: 0;
+}
+
+h1::after {
+  right: 0;
+}
+![baby1](https://github.com/user-attachments/assets/63582fb3-07c8-4a65-8250-f2f0e7418f68)
+![baby2](https://github.com/user-attachments/assets/ea4f92a9-b6f0-43a6-bc28-a5506fddd21c)
+![bday](https://github.com/user-attachments/assets/3eb3fbe9-5f87-45![flower](https://github.com/user-attachments/assets/82558182-0220-4da9-bd2d-ce20a8305435)
+18!![Congrats](https://github.com/user-attachments/assets/b7da076d-f![x-mas](https://github.com/user-attachments/assets/682e9fe8-d4d1-44a7-8194-3c3ed69d8ff2)
+![x-mas](https://github.com/user-attachments/assets/0d78b379-f115-4793-a828-a2f3ba91795e)
+708-4b![graduation](https://github.com/user-attachments/assets/5eb74fab-aab3-4e66-9242-708e4a296928)
+26-b29e-bdade3422604)
+[birthday](https://github.com/user-attachments/assets/497eeac3-2670-427b-8775-849493e4ce04)
+-919a-f1907ad8f8d2)![christmas](https://github.com/user-attachments/assets/a60760ce-546a-465e-b71e-d74d04070033)
+
+![flower](https://github.com/user-attachments/assets/d5ebc8c1-7598-42d8-badf-35472671e99f)
