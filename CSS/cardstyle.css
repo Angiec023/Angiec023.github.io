@@ -1,0 +1,181 @@
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E6E6FA; /* Light purple background */
+    color: #4B0082; /* Very dark purple lettering */
+    text-align: center; /* Centered text */
+}
+
+/* Paragraph styles */
+p {
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+/* Anchor (link) styles */
+a.uk-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #F5F5DC; /* Beige scroll color */
+    color: #8B4513; /* Brown text color */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a.uk-button:hover {
+    background-color: #D2B48C; /* Lighter beige on hover */
+}
+
+/* Section styles */
+#Filigran {
+    margin-top: 30px;
+}
+
+/* Heading styles */
+h2 {
+    font-weight: bold;
+    color: #4B0082; /* Very dark purple for headings */
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #E6E6FA; /* Light purple background */
+    color: #4B0082; /* Very dark purple lettering */
+    text-align: center; /* Centered text */
+}
+
+/* Paragraph styles */
+p {
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+/* Anchor (link) styles */
+a.uk-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #F5F5DC; /* Beige scroll color */
+    color: #8B4513; /* Brown text color */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a.uk-button:hover {
+    background-color: #D2B48C; /* Lighter beige on hover */
+}
+
+/* Section styles */
+#Filigran {
+    margin-top: 30px;
+    text-align: left; /* Adjust text alignment */
+}
+
+/* Heading styles */
+h2, h3 {
+    font-weight: bold;
+    color: #4B0082; /* Very dark purple for headings */
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.content ul {
+            list-style-type: none; /* Remove default bullet points */
+            text-align: left; /* Align list items to the left */
+            padding-left: 0; /* Remove default left padding */
+        }
+
+        .content ul li {
+            text-align: center; /* Center align list items */
+            margin-bottom: 10px; /* Add bottom margin to separate list items */
+        }
+
+        .content ul li:before {
+            font-weight: bold; /* Make text before colon bold */
+            content: attr(data-title); /* Set content as data attribute */
+        }
+
+        .section img {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px; /* Adjust this value to make the border softer */
+}
+.section {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff; /* White background for sections */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Box shadow for sections */
+}
+
+h1 {
+  position: relative;
+  padding-left: 110px;
+  display: inline-block;
+  background: linear-gradient(180deg, #8A2BE2, #4B0082); /* Gradient background */
+  color: #fff;
+  text-align: center; /* Center align text */
+  font-size: 3.8rem; /* Adjust font size */
+  padding: 20px; /* Add padding */
+}
+
+h1 {
+  position: relative;
+  padding-left: 110px;
+  display: inline-block;
+  background: url('../Image/flower.png') left center no-repeat;
+  background-size: 100px 80px;
+  color: #fff;
+}
+
+h1::before,
+h1::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 50%; /* Split the background into two halves */
+  height: 100%;
+  background: linear-gradient(180deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  z-index: -1;
+}
+
+h1::before {
+  left: 0;
+}
+
+h1::after {
+  right: 0;
+}
+
