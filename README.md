@@ -364,8 +364,7 @@ h1::after {
 }
 ![baby1](https://github.com/user-attachments/assets/63582fb3-07c8-4a65-8250-f2f0e7418f68)
 ![baby2](https://github.com/user-attachments/assets/ea4f92a9-b6f0-43a6-bc28-a5506fddd21c)
-![bday](https://github.com/user-attachments/assets/3eb3fbe9-5f87-45![flower](https://github.com/user-attachments/assets/82558182-0220-4da9-bd2d-ce20a8305435)
-18!![Congrats](https://github.com/user-attachments/assets/b7da076d-f![x-mas](https://github.com/user-attachments/assets/682e9fe8-d4d1-44a7-8194-3c3ed69d8ff2)
+
 ![x-mas](https://github.com/user-attachments/assets/0d78b379-f115-4793-a828-a2f3ba91795e)
 708-4b![graduation](https://github.com/user-attachments/assets/5eb74fab-aab3-4e66-9242-708e4a296928)
 26-b29e-bdade3422604)
@@ -373,3 +372,5 @@ h1::after {
 -919a-f1907ad8f8d2)![christmas](https://github.com/user-attachments/assets/a60760ce-546a-465e-b71e-d74d04070033)
 
 ![flower](https://github.com/user-attachments/assets/d5ebc8c1-7598-42d8-badf-35472671e99f)
+![bday](https://github.com/user-attachments/assets/721c0494-7093-4afe-97c0-000dd6d1424d)
+![bday](https://github.com/user-attachments/assets/470f9a30-174b-42c8-bc2d-cd92768b3167)
